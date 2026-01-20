@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Guilherme Martins Silva"
-  pronouns         : # example: "she/her"  
-  bio              : "Computational medicinal chemist with ~10 years of experience in drug discovery, integrating AI/ML and physics-based methods for hit identification, molecular optimization, and mechanism elucidation."
+  name             : "Guilherme Martins Silva, Ph.D."
+  pronouns         : #"he/him"  
+  bio              : "Research Scientist"
   location         : "Campinas, SP, Brazil"
   employer         : "LNBio - CNPEM"
   uri              : # URL
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-7571-9090"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Guilherme-Silva-99"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57198448515"
   zotero           : # URL
