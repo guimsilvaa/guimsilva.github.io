@@ -9,12 +9,13 @@ author_profile: true
 
 Welcome to my website.
 
-My name is Guilherme and I develop/apply computational methods for drug discovery. I'm passionate about hunting bioactive compounds as potential therapeutics, accompanied by the investigation of corresponding mechanisms of action and structure-activity relationships. I am currently acting as a Research Scientist at the Brazilian Biosciences National Laboratory (LNBio), at the Brazilian Center for Research in Energy and Materials (CNPEM).
+My name is Guilherme and I develop & apply computational methods for drug discovery. I'm passionate about hunting bioactive compounds as potential therapeutics, accompanied by the investigation of corresponding mechanisms of action and structure-activity relationships. I am currently acting as a Research Scientist at the Brazilian Biosciences National Laboratory (LNBio), at the Brazilian Center for Research in Energy and Materials (CNPEM).
 
 ---
 
 ## Research Interests
 
+- Cheminformatics
 - Molecular modeling
 - Computer-Aided Drug Design
 - Computational Medicinal Chemistry
