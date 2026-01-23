@@ -9,7 +9,7 @@ author_profile: true
 
 Welcome to my website.
 
-I am currently acting as a Research Scientist at LNBio-CNPEM. I develop and apply computational methods for drug discovery. I'm passionate about hunting bioactive compounds as potential therapeutics, accompanied by the investigation of corresponding mechanisms of action and structure-activity relationships.
+My name is Guilherme and I develop/apply computational methods for drug discovery. I'm passionate about hunting bioactive compounds as potential therapeutics, accompanied by the investigation of corresponding mechanisms of action and structure-activity relationships. I am currently acting as a Research Scientist at the Brazilian Biosciences National Laboratory (LNBio), at the Brazilian Center for Research in Energy and Materials (CNPEM).
 
 ---
 
@@ -19,7 +19,7 @@ I am currently acting as a Research Scientist at LNBio-CNPEM. I develop and appl
 - Computer-Aided Drug Design
 - Computational Medicinal Chemistry
 
-[Click here to find more...](https://guimsilvaa.github.io/research/)
+[Click here to find out more...](https://guimsilvaa.github.io/research/)
 
 ---
 
@@ -38,4 +38,4 @@ I am currently acting as a Research Scientist at LNBio-CNPEM. I develop and appl
 - **Google Scholar:** [https://scholar.google.com/citations?user=6W7WmE8AAAAJ](https://scholar.google.com/citations?user=6W7WmE8AAAAJ)
 - **CV Lattes:** [https://lattes.cnpq.br/1338730938411339](https://lattes.cnpq.br/1338730938411339)
 
-[Click here to find more...](https://guimsilvaa.github.io/cv/)
+[Click here to find out more...](https://guimsilvaa.github.io/cv/)
