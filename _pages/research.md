@@ -19,5 +19,11 @@ author_profile: true
 - Docking, molecular dynamics and free energy predictions
 
 ---
+
 ### Research projects
 
+Research project example1
+
+Research project example2
+
+Research project example3
