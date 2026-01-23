@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 **Ph.D. in Chemistry**  
-University of São Paulo (FFCLRP–USP), Ribeirão Preto, Brazil | 2018–2023
+University of São Paulo (FFCLRP–USP), Ribeirão Preto, Brazil | 2018–2023  
 *Doctoral thesis:* *Computational planning and biological evaluation of allosteric inhibitors of glycogen synthase kinase 3β (GSK-3β) for Alzheimer’s disease*  
 Advisor: Prof. Carlos Henrique Tomich de Paula da Silva  
 Half-year as PhD Intern at Alexander Tropsha's lab,  MML, Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, NC, USA (Fellow from CAPES–PrInt)
@@ -75,29 +75,29 @@ State University of Londrina - Londrina, Brazil  | Aug 2016 – Jul 2018
   
 Talks
 ======
-**2024**  
-Silva, G. M.  
-*Ultra-large virtual screens using fuzzy similarity, QSAR, docking, and molecular dynamics for multi-target anti-Alzheimer agents.*  
+**2024**
+Silva, G. M.
+*Ultra-large virtual screens using fuzzy similarity, QSAR, docking, and molecular dynamics for multi-target anti-Alzheimer agents.*
 Strasbourg Summer School in Cheminformatics, Strasbourg, France.
 
-**2024**  
-Gomes, S. Q.; Silva, G. M.; Frizon, T. E. A.; Silva, C. H. T. P.  
-*Synthesis of potential Trypanosoma cruzi proteasome inhibitors and ADME/Tox analysis.*  
+**2024**
+Gomes, S. Q.; Silva, G. M.; Frizon, T. E. A.; Silva, C. H. T. P.
+*Synthesis of potential Trypanosoma cruzi proteasome inhibitors and ADME/Tox analysis.*
 Scientific Meeting, Brazil.
 
-**2022**  
-Silva, G. M.; Alves, V. M.; Silva, C. H. T. P.  
-*Chemical space exploration and machine learning models for discovering multi-target anti-Alzheimer agents.*  
+**2022**
+Silva, G. M.; Alves, V. M.; Silva, C. H. T. P.
+*Chemical space exploration and machine learning models for discovering multi-target anti-Alzheimer agents.*
 45th Annual Meeting of the Brazilian Chemical Society (SBQ), Maceió, Brazil.
 
-**2021**  
-Silva, G. M.  
-*Using ROC curves to validate models in computational medicinal chemistry.*  
+**2021**
+Silva, G. M.
+*Using ROC curves to validate models in computational medicinal chemistry.*
 Short training course at 4º Encontro de Química Medicinal e Desenvolvimento de Fármacos, PharMedChem, Brazil.
 
-**2018**  
-Silva, G. M.; Poiani, J. G. C.; Silva, C. H. T. P.  
-*Computational planning of traditional and allosteric GSK-3β inhibitors for Alzheimer’s disease.*  
+**2018**
+Silva, G. M.; Poiani, J. G. C.; Silva, C. H. T. P.
+*Computational planning of traditional and allosteric GSK-3β inhibitors for Alzheimer’s disease.*
 XXV Meeting of the Southern Brazilian Chemical Society (SBQ-Sul), Londrina, Brazil.
 
 **2011**
@@ -114,59 +114,59 @@ Annual Scientific Initiation Meeting (EAIC), Guarapuava, Brazil
 
 Posters
 ======
-**2025**  
-Silva, G. M.; Kajimura, S.; Sun, L.  
-*Structural modeling of SLC25A47 as a therapeutic target for diabetes.*  
+**2025**
+Silva, G. M.; Kajimura, S.; Sun, L.
+*Structural modeling of SLC25A47 as a therapeutic target for diabetes.*
 Gordon Research Conference – Computer-Aided Drug Design, Portland, USA.
 
-**2024**  
+**2024**
 Pham, A. T.; ...; Silva, G. M.; ...; Chaikof, E. L.; Sun, L.
-*Structure-Activity Relationship Studies of 3-Acyl Indole as AHR agonists for the treatment of IBD.*  
+*Structure-Activity Relationship Studies of 3-Acyl Indole as AHR agonists for the treatment of IBD.*
 BIDMC Research Retreat, Boston, USA.
 
-**2022**  
-Silva, G. M.; Alves, V. M.; Hochuli, J. E.; Silva, C. H. T. P.; Muratov, E. N.; Tropsha, A.  
-*Integrated computational approaches for the discovery of putative GSK-3β allosteric modulators.*  
+**2022**
+Silva, G. M.; Alves, V. M.; Hochuli, J. E.; Silva, C. H. T. P.; Muratov, E. N.; Tropsha, A.
+*Integrated computational approaches for the discovery of putative GSK-3β allosteric modulators.*
 ACS Spring Meeting, San Diego, USA.
 
-**2022**  
-Silva, G. M.; Silva, C. H. T. P.  
-*Should cannabidiol and tetrahydrocannabinol act as allosteric modulators of GSK-3β?*  
+**2022**
+Silva, G. M.; Silva, C. H. T. P.
+*Should cannabidiol and tetrahydrocannabinol act as allosteric modulators of GSK-3β?*
 10th Brazilian Symposium in Medicinal Chemistry (BrazMedChem), Poços de Caldas, Brazil.
 
-**2022**  
-Silva, G. M.; Alves, V. M.; Silva, C. H. T. P.  
-*Chemical space exploration and machine learning models for discovering multi-target anti-Alzheimer agents.*  
+**2022**
+Silva, G. M.; Alves, V. M.; Silva, C. H. T. P.
+*Chemical space exploration and machine learning models for discovering multi-target anti-Alzheimer agents.*
 45th Annual Meeting of the Brazilian Chemical Society (SBQ), Maceió, Brazil.
 
-**2021**  
-Silva, G. M.; Sullivan, H.; Rath, M. K.; Alves, V. M.; Muratov, E. N.; Silva, C. H. T. P.; Tropsha, A.  
-*Development of robust and predictive machine learning QSAR models for hepatic stability.*  
+**2021**
+Silva, G. M.; Sullivan, H.; Rath, M. K.; Alves, V. M.; Muratov, E. N.; Silva, C. H. T. P.; Tropsha, A.
+*Development of robust and predictive machine learning QSAR models for hepatic stability.*
 British Pharmacological Society & ELRIG Joint Meeting (Virtual).
 
-**2020**  
-Silva, G. M.; Federico, L. B.; Barcelos, M. P.; Gomes, S. Q.; Francischini, I. A. G.; Silva, C. H. T. P.  
-*Prospective virtual screening of natural products as potential SARS-CoV-2 Mpro inhibitors.*  
+**2020**
+Silva, G. M.; Federico, L. B.; Barcelos, M. P.; Gomes, S. Q.; Francischini, I. A. G.; Silva, C. H. T. P.
+*Prospective virtual screening of natural products as potential SARS-CoV-2 Mpro inhibitors.*
 EFMC-ISMC & EFMC-YMCS Virtual Poster Session.
 
-**2020**  
-Federico, L. B.; Silva, G. M.; Campos, J.; Silva, C. H. T. P.  
-*Consensus docking studies for the development of novel colchicine binding site inhibitors.*  
+**2020**
+Federico, L. B.; Silva, G. M.; Campos, J.; Silva, C. H. T. P.
+*Consensus docking studies for the development of novel colchicine binding site inhibitors.*
 EFMC-ISMC & EFMC-YMCS Virtual Poster Session.
 
-**2019**  
-Silva, G. M.; Silva, C. H. T. P.  
-*Structure–activity relationship studies of allosteric GSK-3β inhibitors for potential Alzheimer’s therapeutics.*  
+**2019**
+Silva, G. M.; Silva, C. H. T. P.
+*Structure–activity relationship studies of allosteric GSK-3β inhibitors for potential Alzheimer’s therapeutics.*
 12th International Conference of Pharmaceutical Sciences (CIFARP), Ribeirão Preto, Brazil.
 
-**2019**  
-Silva, G. M.; Silva, C. H. T. P.  
-*Improving binding site and pose prediction of allosteric GSK-3β modulators related to Alzheimer’s disease.*  
+**2019**
+Silva, G. M.; Silva, C. H. T. P.
+*Improving binding site and pose prediction of allosteric GSK-3β modulators related to Alzheimer’s disease.*
 9th Brazilian Symposium in Medicinal Chemistry (BrazMedChem), Pirenópolis, Brazil.
 
-**2018**  
-Silva, G. M.; Poiani, J. G. C.; Silva, C. H. T. P.  
-*Computational planning of traditional and allosteric GSK-3β inhibitors for Alzheimer’s disease.*  
+**2018**
+Silva, G. M.; Poiani, J. G. C.; Silva, C. H. T. P.
+*Computational planning of traditional and allosteric GSK-3β inhibitors for Alzheimer’s disease.*
 XXV Meeting of the Southern Brazilian Chemical Society (SBQ-Sul), Londrina, Brazil.
 
 **2014**  
