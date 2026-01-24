@@ -169,9 +169,9 @@ Silva, G. M.; Poiani, J. G. C.; Silva, C. H. T. P.
 *Computational planning of traditional and allosteric GSK-3β inhibitors for Alzheimer’s disease.*
 XXV Meeting of the Southern Brazilian Chemical Society (SBQ-Sul), Londrina, Brazil.
 
-**2014**  
-Silva, G. M.; Amaral, A. T.  
-*Application of the ion pair concept to evaluate the lipophilicity of quaternary ammonium bromides with neuromuscular blocking activity.*  
+**2014**
+Silva, G. M.; Amaral, A. T.
+*Application of the ion pair concept to evaluate the lipophilicity of quaternary ammonium bromides with neuromuscular blocking activity.*
 7th Brazilian Symposium on Medicinal Chemistry (BrazMedChem), Campos do Jordão, Brazil.
 
 ---
