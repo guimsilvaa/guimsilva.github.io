@@ -73,7 +73,7 @@ State University of Londrina - Londrina, Brazil  | Aug 2016 – Jul 2018
 
 ---
 
-## Honors and Awards
+## Honors & Awards
 ======
 **2024**
 **Invited Speaker – Strasbourg Summer School in Cheminformatics**
