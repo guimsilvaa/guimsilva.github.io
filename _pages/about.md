@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Hi"
+title: ""
 permalink: /
 author_profile: true
 ---
